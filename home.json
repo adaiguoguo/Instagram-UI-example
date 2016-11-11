@@ -181,23 +181,11 @@
                 },
                 "url": "https://raw.githubusercontent.com/adaiguoguo/Instagram-UI-example/master/home.json"
               }, {
-                "image": "https://raw.githubusercontent.com/adaiguoguo/Instagram-UI-example/master/images/search.png",
-                "style": {
-                  "height": "21"
-                },
-                "url": "https://raw.githubusercontent.com/adaiguoguo/Instagram-UI-example/master/search.json"
-              }, {
                 "image": "https://raw.githubusercontent.com/adaiguoguo/Instagram-UI-example/master/images/camera.png",
                 "style": {
                   "height": "21"
                 },
                 "url": "https://raw.githubusercontent.com/adaiguoguo/Instagram-UI-example/master/camera.json"
-              }, {
-                "image": "https://raw.githubusercontent.com/adaiguoguo/Instagram-UI-example/master/images/heart.png",
-                "style": {
-                  "height": "21"
-                },
-                "url": "https://raw.githubusercontent.com/adaiguoguo/Instagram-UI-example/master/heart.json"
               }, {
                 "image": "https://raw.githubusercontent.com/adaiguoguo/Instagram-UI-example/master/images/profile.png",
                 "style": {
